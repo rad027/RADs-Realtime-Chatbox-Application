@@ -1,6 +1,6 @@
 ## About RADs Realtime Chatbox Application
 
-<p>I dunno! Just PM Me on my Facebook account for more info hahaha</p>
+<p>I dunno! Just PM Me on my <a href="https://facebook.com/roldhan27" target="_blank">Facebook account</a> for more info hahaha</p>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
